@@ -4,12 +4,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack developer
 -------------------
 
-Welcome to my profile. I've been working as a software developer since 2015. I have experience working on big projects for big companies. The main tools I use on a daily basis are: Javascript, Typescript, ReactJS, React Native, Node JS and others that make up the entire workflow of the aforementioned technologies. I seek to use the best principles and methodologies that guarantee quality, agility and performance. We know that technologies are constantly evolving and, therefore, I am always looking for innovation, constantly investing in the best courses and programming training and also participating in challenging initiatives that help me to grow. I cannot fail to mention that I love to participate in all the processes of the projects in which I am involved, from the kick off or architectural definition to the final delivery of the product or service. Feel free to get in touch! :)
-
+Welcome to my profile!! :) <br /><br />
+I've been working as a software developer since 2015. I have experience working on big projects for big companies.<br /> The main tools I use on a daily basis are: Javascript, Typescript, ReactJS, React Native, Node JS and others that make up the entire workflow of the aforementioned technologies.<br /> I seek to use the best principles and methodologies that guarantee quality, agility and performance. <br /><br />We know that technologies are constantly evolving and, therefore, I am always looking for innovation, constantly investing in the best courses and programming training and also participating in challenging initiatives that help me to grow.<br /><br /> I cannot fail to mention that I love to participate in all the processes of the projects in which I am involved, from the kick off or architectural definition to the final delivery of the product or service. Feel free to get in touch! :)
+<br />
+<br />
 * 🌍  I'm based in São Paulo - SP
 * 🖥️  See my portfolio at [Behance](http://www.behance.net/danilloept824b)
 * ✉️  You can contact me at [danilloept@gmail.com](mailto:danilloept@gmail.com)
 * 🚀  I'm currently working on [Grupo Boticário](http://www.grupoboticario.com.br/)
+
+<br />
 
 ### Skills
 
@@ -38,10 +42,11 @@ Welcome to my profile. I've been working as a software developer since 2015. I h
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 </p>
 
-
+<br />
 ### Socials
 
 <p align="left"> <a href="https://www.behance.com/danilloept824b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/danillo.ewerton" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/danillotorresdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/danilloewerton" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/danillo-ewerton-pereira-torres" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/danilloept" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<br />
 
 ### Badges
 
