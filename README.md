@@ -8,7 +8,7 @@ Welcome to my profile!! :) <br /><br />
 I've been working as a software developer since 2015. I have experience working on big projects for big companies.<br /> The main tools I use on a daily basis are: Javascript, Typescript, ReactJS, React Native, Node JS and others that make up the entire workflow of the aforementioned technologies.<br /> I seek to use the best principles and methodologies that guarantee quality, agility and performance. <br /><br />We know that technologies are constantly evolving and, therefore, I am always looking for innovation, constantly investing in the best courses and programming training and also participating in challenging initiatives that help me to grow.<br /><br /> I cannot fail to mention that I love to participate in all the processes of the projects in which I am involved, from the kick off or architectural definition to the final delivery of the product or service. Feel free to get in touch! :)
 <br />
 <br />
-* 🌍  I'm based in São Paulo - SP
+* 🌍  I'm based in São Paulo - BR
 * 🖥️  See my portfolio at [Behance](http://www.behance.net/danilloept824b)
 * ✉️  You can contact me at [danilloept@gmail.com](mailto:danilloept@gmail.com)
 * 🚀  I'm currently working on [Grupo Boticário](http://www.grupoboticario.com.br/)
