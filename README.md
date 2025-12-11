@@ -11,7 +11,6 @@ I've been working as a software developer since 2015. I have experience working 
 * 🌍  I'm based in São Paulo - BR
 * 🖥️  See my portfolio at [Behance](http://www.behance.net/danilloept824b)
 * ✉️  You can contact me at [danilloept@gmail.com](mailto:danilloept@gmail.com)
-* 🚀  I'm currently working on [Grupo Boticário](http://www.grupoboticario.com.br/)
 
 <br />
 
