@@ -9,7 +9,7 @@ I've been working as a software developer since 2015. I have experience working 
 <br />
 <br />
 * 🌍  I'm based in São Paulo - BR
-* 🖥️  See my portfolio at [Behance](http://www.behance.net/danilloept824b)
+* 🖥️  See my portfolio at [https://www.danillotorres.com](https://www.danillotorres.com/)
 * ✉️  You can contact me at [danilloept@gmail.com](mailto:danilloept@gmail.com)
 
 <br />
